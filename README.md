@@ -1,5 +1,6 @@
 # Predict_Weaning_HD
-Predict Weaning in Hemodialysis
+Predict Weaning in Hemodialys is a prediction program, working on eICU-CRD database.
+
 Please excute the programs in order!!!
 1. Excute patient.ipynb file to get all qualified patient data.
 2. Excute diagnosis.ipynb file to get diagnosis data.
